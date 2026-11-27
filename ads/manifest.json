@@ -1,6 +1,6 @@
 {
-  "version": 1,
+  "version": 2,
   "image_url": "https://raw.githubusercontent.com/Musadevbd/meyad_guard_ads/main/ads/current.jpg",
-  "updated_at": "2026-11-27T12:57:00+06:00",
+  "updated_at": "2026-11-27",
   "note": "Meyad Guard home-header ad. The app fetches this file on launch (with a time-based cache buster) and shows image_url in the header. Bump version when the image changes."
 }
